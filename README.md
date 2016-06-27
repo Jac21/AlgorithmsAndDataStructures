@@ -4,8 +4,10 @@ AlgorithmsAndDataStructures
 Content
 ----------
 > -  Bloom Filter
-	- Implemented in C++, C#
+	- Implemented in C# and C++
 > - Levenshtein Distance
-	- Implemented in Python
-> - Singly Linked List
-	- Implemented in C#
+	- Implemented in JavaScript and Python
+> - Linked Lists
+	- Doubly Linked List
+	- Singly Linked List
+		- Implemented in C# and JavaScript
