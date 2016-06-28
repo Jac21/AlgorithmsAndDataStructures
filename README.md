@@ -9,5 +9,6 @@ Content
 	- Implemented in JavaScript and Python
 > - Linked Lists
 	- Doubly Linked List
+		- Implemented in JavaScript
 	- Singly Linked List
 		- Implemented in C# and JavaScript
