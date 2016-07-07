@@ -3,7 +3,7 @@ AlgorithmsAndDataStructures
 
 Content
 ----------
-> -  Bloom Filter
+> - Bloom Filter
 	- Implemented in C# and C++
 > - Levenshtein Distance
 	- Implemented in JavaScript and Python
@@ -12,3 +12,6 @@ Content
 		- Implemented in JavaScript
 	- Singly Linked List
 		- Implemented in C# and JavaScript
+> - Queues
+> - Stacks
+	- Implemented in JavaScript
