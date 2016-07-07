@@ -13,5 +13,8 @@ Content
 	- Singly Linked List
 		- Implemented in C# and JavaScript
 > - Queues
+	- Implemented in JavaScript
 > - Stacks
+	- Implemented in JavaScript
+> - Trees
 	- Implemented in JavaScript
