@@ -14,6 +14,8 @@ Content
 		- Implemented in C# and JavaScript
 > - Queues
 	- Implemented in JavaScript
+> - Quicksort
+	- Implemented in C#
 > - Stacks
 	- Implemented in JavaScript
 > - Trees
