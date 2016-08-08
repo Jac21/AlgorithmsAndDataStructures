@@ -19,4 +19,5 @@ Content
 > - Stacks
 	- Implemented in JavaScript
 > - Trees
-	- Implemented in JavaScript
+	- Basic
+		- Implemented in C#, JavaScript
