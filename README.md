@@ -5,6 +5,8 @@ Content
 ----------
 > - Bloom Filter
 	- Implemented in C# and C++
+> - Hashing
+	- Implemented in C#
 > - Levenshtein Distance
 	- Implemented in JavaScript and Python
 > - Linked Lists

@@ -40,6 +40,8 @@ namespace Hashtables
             {
                 _table[i] = null;
             }
+
+            Console.WriteLine("Constructed ClosedHashTable!");
         }
 
         /// <summary>

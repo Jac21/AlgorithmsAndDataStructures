@@ -10,14 +10,14 @@ namespace Hashtables
             ClosedHashTable closedHashTable = new ClosedHashTable(100);
 
             // insert using various methods
-            closedHashTable.Insert(0, "One");
-            closedHashTable.Insert(1, "Two");
+            closedHashTable.Insert(0, "Zero");
+            closedHashTable.Insert(1, "One");
 
-            closedHashTable.QuadraticHashInsert(2, "Three");
-            closedHashTable.QuadraticHashInsert(0, "Four");
+            closedHashTable.QuadraticHashInsert(2, "Two");
+            closedHashTable.QuadraticHashInsert(0, "Three");
 
-            closedHashTable.DoubleHashInsert(4, "Five");
-            closedHashTable.DoubleHashInsert(1, "Six");
+            closedHashTable.DoubleHashInsert(4, "Four");
+            closedHashTable.DoubleHashInsert(1, "Five");
 
             // print to console
             closedHashTable.Print();
@@ -30,6 +30,16 @@ namespace Hashtables
 
             // retrieve particular key value
             Console.WriteLine(closedHashTable.Retrieve(2));
+
+            // init open hash table
+            OpenHashTable openHashTable = new OpenHashTable(100);
+
+            // insertion
+            openHashTable.Insert(0, "Zero");
+            openHashTable.Insert(1, "One");
+
+            // print to console
+            openHashTable.Print();
         }
     }
 }
