@@ -40,6 +40,21 @@ namespace Hashtables
 
             // print to console
             openHashTable.Print();
+
+            // init 
+            FixedSizeGenericHashTable<string, string> fixedSizeGenericHashTable = new FixedSizeGenericHashTable<string, string>(100);
+
+            fixedSizeGenericHashTable.Add("1", "item 1");
+            fixedSizeGenericHashTable.Add("2", "item 2");
+            fixedSizeGenericHashTable.Add("dsfdsdsd", "sadsadsadsad");
+
+            fixedSizeGenericHashTable.Find("1");
+            fixedSizeGenericHashTable.Find("2");
+            fixedSizeGenericHashTable.Find("dsfdsdsd");
+
+            fixedSizeGenericHashTable.Remove("1");
+
+            fixedSizeGenericHashTable.Find("1");
         }
     }
 }
