@@ -1,0 +1,22 @@
+Created new list structure, size: 4
+Created new IntNodes m, size: 4
+Created new IntNode o, size: 4
+Created new IntNodes m, size: 4
+Created new IntNode o, size: 4
+Created new IntNodes m, size: 4
+Created new IntNode o, size: 4
+Created new IntNodes m, size: 4
+Created new IntNode o, size: 4
+Created new IntNodes m, size: 4
+Created new IntNode o, size: 4
+Node data: 16
+Node data: 18
+Node data: 46
+Node data: 22
+Node data: 44
+Node data: 33
+Node data: 4
+Node data: 62
+Node data: 35
+Node data: 41
+De-allocated list structure, size: 4
